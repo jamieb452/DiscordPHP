@@ -1,0 +1,12 @@
+site_name: DiscordPHP
+pages:
+    - Home:
+        - Index: 'index.md'
+    - User:
+        - Client: 'user/client.md'
+        - User: 'user/user.md'
+        - Member: 'user/member.md'
+    - Guild:
+        - Guild: 'guild/guild.md'
+        - Role: 'guild/role.md'
+theme: readthedocs
